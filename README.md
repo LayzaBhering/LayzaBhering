@@ -1,11 +1,12 @@
 # Olá, Me chamo Layza, muito prazer!  👩‍💻
 
-### No presente cenário estou estudando Análise e desenvolvimento de sistemas e aperfeiçoando minhas habilidades de desenvolvedora em busca de uma oportunidade na área de TI. Se sinta a vontade no meu perfil! 🚀
+### No presente cenário estou estudando Análise e desenvolvimento de sistemas e uma pós em ciência de dados. Também estou aperfeiçoando minhas habilidades como uma profissional analítica, desenvolvedora e curiosa por aprender mais e gerar soluções da área de TI. Se sinta a vontade no meu perfil! 🚀
 
 <hr>
 
-- No momento estou trabalhando no setor administrativo / financeiro
-- Estou estudando JavaScript, HTML, CSS, Git, GitHub e sempre procuro estar em contato com outras tecnologias 💻
+- No momento estou atuando como estágiaria em análise de dados
+- Estou estudando Python, SQL e Power BI além de sempre estar em contato com outras tecnologias 💻
+- Conhecimento em: Git, GitHub, JavaScript, HTML e CSS 💻
 - Entre em contato comigo pelo meu e-mail: [*Gmail*](layzabheringdeabreu@gmail.com) ou no [*LinkedIn*](www.linkedin.com/in/layza-bhering-de-abreu-b32a6319a) 📫
 - Pronomes: Ela / Dela
   
