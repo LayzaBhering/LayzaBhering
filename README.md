@@ -5,7 +5,7 @@
 <hr>
 
 - No momento estou atuando como estágiaria em análise de dados
-- Estou estudando Python, SQL e Power BI além de sempre estar em contato com outras tecnologias 💻
+- Estou estudando Python, Power BI e JavaScript, além de sempre estar em contato com outras tecnologias 💻
 - Conhecimento em: Git, GitHub, JavaScript, HTML e CSS 💻
 - Entre em contato comigo pelo meu e-mail: [*Gmail*](layzabheringdeabreu@gmail.com) ou no [*LinkedIn*](www.linkedin.com/in/layza-bhering-de-abreu-b32a6319a) 📫
 - Pronomes: Ela / Dela
