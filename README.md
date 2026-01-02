@@ -21,7 +21,6 @@ Se sinta a vontade no meu perfil! 🚀
   <img align="center" alt="Layza-BI" height="30" width="40" src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000">
   <img align="center" alt="Layza-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Layza-SQL" height="30" width="40" src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000">
-  <img align="center" alt="Layza-JAVA" height="30" width="40" src="https://icongr.am/devicon/java-original.svg">
   <img align="center" alt="Layza-Figma" height="30" width="40" src = "https://img.icons8.com/?size=100&id=W0YEwBDDfTeu&format=png&color=000000">
 </div>
 <hr>
