@@ -11,7 +11,6 @@ Se sinta a vontade no meu perfil! 🚀
 - Python, Power BI, modelagem, consulta e manipulação de dados,
 -  Em constante contato com outras tecnologias, 💻
 - Conhecimento em: Git e GitHub,
-- Entre em contato comigo pelo meu e-mail: [*Gmail*](layzabheringdeabreu@gmail.com) ou no [*LinkedIn*](www.linkedin.com/in/layza-bhering-de-abreu-b32a6319a), 📫
 - Pronomes: Ela / Dela.
   
 ![*LayzaBhering GitHub stats*](https://github-readme-stats.vercel.app/api?username=LayzaBhering&show_icons=true&theme=dark)
